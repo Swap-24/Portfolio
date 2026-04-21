@@ -130,7 +130,7 @@ export default function Hero() {
             className="font-mono text-[clamp(0.85rem,1.5vw,1rem)] tracking-[0.08em] text-slate-500 mb-6"
             style={{ fontFamily: "var(--font-space-mono)" }}
           >
-            // &nbsp;<Typewriter />
+            {"//"} &nbsp;<Typewriter />
           </motion.p>
 
           {/* Description */}
